@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and creating new projects.
 - 🌱 I’m currently learning to use GitHub and to code in Java
 - 📫 How to reach me- My Twitter: https://twitter.com/Vidhya_2085
-                      My Linkedin:
+                      My Linkedin:https://www.linkedin.com/in/vidhya-sankara-codr/
                       
 
 
